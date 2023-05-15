@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-Thank you for all of the fish.
+Thank you for all of the fish. The meaning of life is 42.
 
 ## 🤓 Course overview and learning outcomes 
 
